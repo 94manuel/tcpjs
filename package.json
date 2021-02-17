@@ -1,0 +1,24 @@
+{
+  "name": "tcpjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/94manuel/tcpjs.git"
+  },
+  "keywords": [
+    "tcp",
+    "tunnel"
+  ],
+  "author": "Manuel Fernando Santofimio Tovar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/94manuel/tcpjs/issues"
+  },
+  "homepage": "https://github.com/94manuel/tcpjs#readme"
+}
